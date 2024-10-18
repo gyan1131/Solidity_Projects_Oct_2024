@@ -11,7 +11,7 @@ contract identity
    constructor ()  
    {
     name="Sandy";
-    age=34; are
+    age=34;
     country="india";
    }
 function getName() view public returns(string memory)
